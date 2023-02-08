@@ -18,6 +18,7 @@ jobs:
           - .github/
           - .git/*
           - .github/*
+          - **/src/**
           '
       env:
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }} 
