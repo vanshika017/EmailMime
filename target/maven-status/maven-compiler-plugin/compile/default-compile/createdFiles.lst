@@ -1,0 +1,6 @@
+com\example\EmailSendMime\config\MyConfiguration.class
+com\example\EmailSendMime\controller\EmailController.class
+com\example\EmailSendMime\EmailSendMimeApplication.class
+com\example\EmailSendMime\entity\EmailDetails.class
+com\example\EmailSendMime\service\EmailService.class
+com\example\EmailSendMime\service\EmailServiceImpl.class
